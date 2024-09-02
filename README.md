@@ -60,7 +60,7 @@ The study successfully created a predictive model for NBA player career outcomes
 ## Files
 - `team_stats.csv`: Contains player performance statistics.
 - `player_stats.csv`: Contains award information.
-- `report.pdf`: is my summary of the job.
+- `Scouting_for_Future_NBA_Stars__Implementation_of_Multi_classification_Machine_Learning_Methods_in_Sports_Analytics.pdf`: is my summary of the job.
 - `award_project_template.ipynb`: contains code for data cleaning and quantitative analysis
 - `model_training.ipynb`: contains code for benchmarking the best regression classification algorithms.
 - `240 final presentation.pdf` contains a pptx file for speech purposes.
